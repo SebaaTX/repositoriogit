@@ -1,0 +1,1 @@
+alert("Hola mundo") //Muestra una alerta diciendo "Hola mundo"//
